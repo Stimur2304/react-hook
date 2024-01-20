@@ -44,7 +44,7 @@ button:hover{
 .pic-div{
   display: flex;
   align-items: flex-end;
-  height: 547px;
+  min-height:100vh;
 }
 .important{
   display: flex;
